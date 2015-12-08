@@ -9,10 +9,16 @@
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "your-initials-plus-4-or-more-random-integers-to-ensure-name-uniqueness"
+    },
+    "location":{
+      "value":"West US"
+    },
+    "sizeOfDiskInGB":{
+      "value":"20"
     }
   }
 }
